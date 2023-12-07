@@ -1,0 +1,93 @@
+[
+    {
+      "type": "Web Designing",
+      "name_project": "JSY Company Website",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-jsy-1.jpg", "caption": "Home Page"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-jsy-2.jpg", "caption": "Contact Page"}
+      ],
+      "link" : "#"
+    },
+    {
+      "type": "Mobile App",
+      "name_project": "Azana Priority App",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-azana-priority-1.jpg", "caption": "Home Page"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-azana-priority-2.jpg.jpg", "caption": "Contact Page"}
+      ],
+      "link" : "https://www.instagram.com/p/Cv83Wa_JQLM"
+    },
+    {
+      "type": "Web Designing",
+      "name_project": "CMS Loyalty",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "App Interface"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Settings Screen"}
+      ],
+      "link" : "#"
+    },
+    {
+      "type": "Web Designing",
+      "name_project": "FullBook CRM",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Graphs and Charts"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Data Trends"}
+      ],
+      "link" : "#"
+    },
+    {
+      "type": "Desktop App",
+      "name_project": "Self-Q Kiosk",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-selfq-1.jpg", "caption": "Artwork 1"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-selfq-2.jpg", "caption": "Artwork 2"}
+      ],
+      "link" : "#"
+    },
+    {
+      "type": "Mobile Designing",
+      "name_project": "DTC App",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-dtc-app-1.jpg", "caption": "Algorithm Training"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-dtc-app-2.jpg", "caption": "Prediction Results"}
+      ],
+      "link" : "https://www.instagram.com/p/Cv66m_RpNBO"
+    },
+    {
+      "type": "Web Designing",
+      "name_project": "DepanMata",
+      "images": [
+        {"url": "https://dummyimage.com/600x400/000/fff", "caption": "Algorithm Training"},
+        {"url": "https://dummyimage.com/800x600/000/fff", "caption": "Prediction Results"}
+      ],
+      "link" : "https://www.instagram.com/p/Cv7SovnJ7ZJ"
+    },
+    {
+      "type": "Web Designing",
+      "name_project": "InstaPrint",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-instaprint.jpg", "caption": "Algorithm Training"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-instaprint.jpg", "caption": "Algorithm Training"}
+      ],
+      "link" : "https://instaprint.id/"
+    },
+    {
+      "type": "Web Development",
+      "name_project": "DTC Store Template",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-dtc-1.jpg", "caption": "Algorithm Training"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-dtc-2.jpg", "caption": "Prediction Results"}
+      ],
+      "link" : "https://www.instagram.com/p/CzNGJpLvWde"
+    },
+    {
+      "type": "Web Development",
+      "name_project": "Pigijo.com",
+      "images": [
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-pigijo.jpg", "caption": "Algorithm Training"},
+        {"url": "https://muhasim-asari.github.io/cv/assets/images/projects/project-pigijo.jpg", "caption": "Prediction Results"}
+      ],
+      "link" : "https://pigijo.com/"
+    }
+  ]
+  
